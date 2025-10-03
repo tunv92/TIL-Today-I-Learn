@@ -1,2 +1,2 @@
-\### Học `git add` command
+### Học `git add` command
 
