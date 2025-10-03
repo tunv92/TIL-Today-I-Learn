@@ -1,7 +1,7 @@
 # 2025-10-03 
 ## Học `git add` command
 ### 1. TỔNG QUAN (DESCRIPTION)
-`git add` *là lệnh cập nhật index (staging area)* bằng cách sử dụng nội dung hiện tại từ working tree, để chuẩn bị nội dung cho lần commit tiếp theo.
+`git add` **là lệnh cập nhật index (staging area)** bằng cách sử dụng nội dung hiện tại từ working tree, để chuẩn bị nội dung cho lần commit tiếp theo.
 
 Khái niệm quan trọng:
 
@@ -11,4 +11,6 @@ Khái niệm quan trọng:
 
 Quy trình làm việc:
 
-Working Tree → (git add) → Index/Staging Area → (git commit) → Repository
+---
+|Working Tree → (git add) → Index/Staging Area → (git commit) → Repository|
+---
