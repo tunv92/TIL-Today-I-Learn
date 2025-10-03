@@ -10,7 +10,6 @@ Khái niệm quan trọng:
 - Repository: Nơi lưu trữ lịch sử commit
 
 Quy trình làm việc:
-
----
-|Working Tree → (git add) → Index/Staging Area → (git commit) → Repository|
----
+ 
+| Working Tree → (git add) → Index/Staging Area → (git commit) → Repository  |
+| :---- |
